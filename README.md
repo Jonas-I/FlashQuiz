@@ -1,7 +1,7 @@
 # FlashQuiz
 ## Lab 2
 ### App Description
-An app that allows a user to test themselves by creating their own flashcard by inputting a question and answer, and saving it to
+An app that allows a user to test themselves by creating their own flashcard by inputting a question and answer, and saving it to provide the new card screen.
 
 ### App Walk-through
 <img src="https://i.imgur.com/XCzpnIp.gif" width=200><br>
@@ -41,4 +41,3 @@ An app that prompts a question and provides 3 answer choices. If the answer is w
 - [x] Add selectable multiple choice answers beneath the card
    - [x] Change the background color of the multiple choice answers when clicked to indicate whether the question answered correctly
 - [x] Further customize and style the card
-![]
