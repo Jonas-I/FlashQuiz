@@ -1,7 +1,7 @@
 # FlashQuiz
 ## Lab 2
 ### App Description
-An app that allows a user to test themselves by creating their own flashcard by inputting a question and answer, and saving it to provide the new card screen.
+An app that allows a user to test themselves by creating their own flashcard by inputting a question and answer, and saving it to provide the new card screen. It allows the user to also input 2 other answer choices, and randomizes the choices for them. If a question or answer is not created, then it will present an error message. If it has successfully been created, it will present a success message.
 
 ### App Walk-through
 <img src="https://i.imgur.com/j04MpYD.gif" width=200><br>
