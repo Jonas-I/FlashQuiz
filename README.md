@@ -1,4 +1,23 @@
 # FlashQuiz
+## Lab 3
+
+### App Description
+This app allows the user to create several cards, browse through it, and saves the data, allowing the user to see their created card when the app is relaunched. (Required Only)
+
+### App Walk-though
+<img src="https://i.imgur.com/IqOPrQc.gif" width=200><br>
+
+
+## Required
+- [x] User can create a card and still see their created card when the app is relaunched.
+- [x] User can create muliple cards and browse through all created cards
+
+## Optional
+- [ ] User can delete a card and no longer see it in their deck anymore
+- [ ] Flashcards are shown in random order instead of the order they were created in
+- [ ] User can edit a card and see the edit saved when they browse through their deck of cards
+- [ ] User can create flashcards with multiple answers and be able to browse through cards with multiple choice answers shown
+
 ## Lab 2
 ### App Description
 An app that allows a user to test themselves by creating their own flashcard by inputting a question and answer, and saving it to provide the new card screen. It allows the user to also input 2 other answer choices, and randomizes the choices for them. If a question or answer is not created, then it will present an error message. If it has successfully been created, it will present a success message.
